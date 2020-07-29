@@ -1,3 +1,3 @@
 # mastermind-js
 logic game js	
-http://stewor.prv.pl/
+ https://stewor.github.io/mastermind-js/
